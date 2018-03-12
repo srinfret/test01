@@ -13,5 +13,6 @@ namespace WpfTest01
     /// </summary>
     public partial class App : Application
     {
+        // Here's a comment
     }
 }
